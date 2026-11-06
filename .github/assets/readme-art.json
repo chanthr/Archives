@@ -1,0 +1,22 @@
+{
+  "eyebrow": "MATH INVESTIGATIONS",
+  "title": "Archives",
+  "subtitle": "The math behind signals and chaotic motion, written in high school",
+  "wave": "slate",
+  "animate": true,
+  "steps": [],
+  "badges": [
+    {
+      "file": "badge-papers",
+      "label": "papers",
+      "message": "2 PDFs",
+      "color": "info"
+    },
+    {
+      "file": "badge-topics",
+      "label": "topics",
+      "message": "Math, Physics",
+      "color": "neutral"
+    }
+  ]
+}
