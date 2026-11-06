@@ -1,0 +1,29 @@
+{
+  "figures": [
+    {
+      "name": "paper-dft",
+      "type": "paper",
+      "pdf": "papers/2022-discrete-fourier-and-z-transform.pdf",
+      "eyebrow": "2022, INDIVIDUAL INVESTIGATION",
+      "title": "How mathematics is used in the Discrete Fourier Transform and the Discrete Z-transform",
+      "desc": "Builds up the Discrete Fourier Transform and its complex form, derives the Z-transform from pure mathematics, and compares the two methods.",
+      "meta": [
+        "30 pages",
+        "3,958 words",
+        "PDF"
+      ]
+    },
+    {
+      "name": "paper-pendulum",
+      "type": "paper",
+      "pdf": "papers/2021-double-pendulum-equations-of-motion.pdf",
+      "eyebrow": "2021, MATHEMATICS HL INVESTIGATION",
+      "title": "Deriving the equation of motion of a double pendulum",
+      "desc": "Derives the equations of motion with Lagrangian mechanics, then plots both masses for starting angles up to 120° to show where the motion turns chaotic.",
+      "meta": [
+        "10 pages",
+        "PDF"
+      ]
+    }
+  ]
+}
